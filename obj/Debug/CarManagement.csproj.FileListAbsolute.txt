@@ -1,0 +1,14 @@
+D:\C#\CarManagement\CarManagement\bin\Debug\CarManagement.exe
+D:\C#\CarManagement\CarManagement\bin\Debug\CarManagement.exe.config
+D:\C#\CarManagement\CarManagement\bin\Debug\CarManagement.pdb
+D:\C#\CarManagement\CarManagement\obj\Debug\CarManagement.csproj.AssemblyReference.cache
+D:\C#\CarManagement\CarManagement\obj\Debug\CarManagement.Admin.MainMenu.resources
+D:\C#\CarManagement\CarManagement\obj\Debug\CarManagement.Admin.UI.Cars.resources
+D:\C#\CarManagement\CarManagement\obj\Debug\CarManagement.loginForm.resources
+D:\C#\CarManagement\CarManagement\obj\Debug\CarManagement.Properties.Resources.resources
+D:\C#\CarManagement\CarManagement\obj\Debug\CarManagement.csproj.GenerateResource.cache
+D:\C#\CarManagement\CarManagement\obj\Debug\CarManagement.csproj.CoreCompileInputs.cache
+D:\C#\CarManagement\CarManagement\obj\Debug\CarManagement.exe
+D:\C#\CarManagement\CarManagement\obj\Debug\CarManagement.pdb
+D:\C#\CarManagement\CarManagement\obj\Debug\CarManagement.Admin.UI.Customers.resources
+D:\C#\CarManagement\CarManagement\obj\Debug\CarManagement.Admin.UI.UserManagement.resources
